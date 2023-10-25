@@ -6,8 +6,6 @@ With a strong passion for game creation from an early age, Isiyunai has invested
 
 Some of Isiyunai's key strengths include:
 
-Game Development Experience: Isiyunai has worked on a variety of game projects, from simple mobile games to more complex titles. Their understanding of game engines and ability to translate creative ideas into interactive experiences is impressive.
-
 Programming Skills: Isiyunai masters programming languages relevant to game development, such as C#, C++, and Python. They can optimize game performance and tackle technical challenges with ease.
 
 Passion for Innovation: Isiyunai is constantly exploring new trends and technologies in the gaming industry. They're always eager to learn and adapt to stay up to date with the latest developments.
